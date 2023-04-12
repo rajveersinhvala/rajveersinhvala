@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajveersinh Vala</h1>
 
-<img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47v9z3eje83jeeks4hk9wq27xwqmjkxvev7o5jywru&rid=giphy.gif&ct=g"  />
+<img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47v9z3eje83jeeks4hk9wq27xwqmjkxvev7o5jywru&rid=giphy.gif&ct=g" height="30" width="50" />
 
 <h3 align="center">A frontend developer.</h3>
 
