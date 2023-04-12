@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47v9z3eje83jeeks4hk9wq27xwqmjkxvev7o5jywru&rid=giphy.gif&ct=g" />
 
-<h3 align="center">A frontend developer.</h3>
+<h3 align="center">A frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajveersinhvala&label=Profile%20views&color=0e75b6&style=flat" alt="rajveersinhvala" /> </p> 
 
