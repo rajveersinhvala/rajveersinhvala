@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajveersinh Vala</h1>
 <h3 align="center">A frontend developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajveersinhvala&label=Profile%20views&color=0e75b6&style=flat" alt="rajveersinhvala" /> </p> <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajveersinhvala&label=Profile%20views&color=0e75b6&style=flat" alt="rajveersinhvala" /> </p> 
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajveersinhvala](https://github.com/rajveersinhvala)
 
-- 💬 Ask me about **MERN stack.**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **rajveersinhvala12@gmail.com**
 
@@ -92,5 +92,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajveersinhvala&show_icons=true&locale=en&layout=compact" alt="rajveersinhvala" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajveersinhvala&show_icons=true&locale=en" alt="rajveersinhvala" /></p>
