@@ -96,3 +96,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajveersinhvala&show_icons=true&locale=en&layout=compact" alt="rajveersinhvala" /></p>
+
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?rajveersinhvala=YulietM&theme=react&line_height=40&hide=css" /> </a>
